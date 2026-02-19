@@ -1,0 +1,76 @@
+.Flag {
+    border: 10px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.a {
+    background-color: #9e2a1a;
+    height: 40px;
+    width: 100px;
+    padding-left: 160px;
+
+}
+
+.b {
+    background-color: #07639a;
+    height: 40px;
+    width: 100px;
+    padding-left: 160px;
+}
+
+.c {
+    background-color: #eab676;
+    height: 40px;
+    width: 100px;
+    padding-left: 160px;
+}
+
+.Flag2 {
+    border: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.aa {
+    background-color: whitesmoke;
+    height: 40px;
+    width: 100px;
+    padding-left: 160px;
+}
+
+.bb {
+    background-color: green;
+    height: 40px;
+    width: 100px;
+    padding-left: 160px;
+}
+
+.cc {
+    background-color: red;
+    height: 40px;
+    width: 100px;
+    padding-left: 160px;
+}
+
+.Flag3 {
+    border: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.aaa {
+    background-color: #d12a2a;
+    height: 70px;
+    width: 100px;
+    padding-left: 160px;
+
+}
+
+.bbb {
+    background-color: whitesmoke;
+    height: 70px;
+    width: 100px;
+    padding-left: 160px;
+}
